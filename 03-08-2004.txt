@@ -1,0 +1,14 @@
+03-08-2024
+
+
+
+1} design an interface called vehical which includes the foll methods :
+1) void change gear(int a)
+2)void speed up (int a)
+3)void apply break (int a)
+4) void start .
+creat classes car and bike that implements the above methods.creat another class called test vehical interface that includes the main methods and test the above functionality.
+
+2} creat an interface called plan having attribute rate per unit .
+creat a class electricity bill that has attributes units consumed . let the class implement the interface plan 
+and give value for rate per unit also creat a method to compute the bill(unit comsumed *rate per uniy), and a method to display the same. creat a seperate class called test bill to test the above functionality
